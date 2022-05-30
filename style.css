@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color:bisque;
+
+
+}
+h1{
+    text-align: center;
+    
+
+}
+h1{
+    color:blueviolet;
+}
+img{
+    text-align: center;
+    margin: 10px;
+}
+info.html{
+    margin-top:10px;
+}
+li{
+    font-size: x-large;
+}
+.link-header{
+    text-decoration: none;
+    font-size: x-large;
+    text-align: center;
+
+}
